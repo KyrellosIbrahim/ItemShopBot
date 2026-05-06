@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Wishlist data (contains Discord user IDs)
+wishlist.json
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+*.iml
+
+# Old files
+script.py
